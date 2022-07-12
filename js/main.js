@@ -12,6 +12,3 @@ var swiper2 = new Swiper(".bg-slider", {
     },
 });
 
-//Navigation bar effects on scroll
-
-//Responsive navigation menu toggle
